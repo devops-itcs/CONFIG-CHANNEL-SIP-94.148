@@ -1,6 +1,9 @@
 1,sip:10.10.98.15:5060,mb=25,2,Channels_mobi
 1,sip:10.10.94.32:5060,vn=22,2,Channels_vina
 1,sip:10.10.96.18:5060,vt=22,2,Channels_vtel
+1,sip:10.10.98.15:5060,mb=6,2,Demo_mobi
+1,sip:10.10.91.19:5060,vn=6,2,Demo_vina
+1,sip:10.10.96.15:5060,vt=6,2,Demo_vtel
 3,sip:10.10.90.21:5060,mb=10,2,Billsec_mobi
 3,sip:10.10.94.105:5060,vn=10,2,Billsec_vina
 3,sip:10.10.89.23:5060,vt=10,2,Billsec_vtel
