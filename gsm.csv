@@ -4,3 +4,4 @@
 3,sip:10.10.98.15:5060,mb=10,2,Billsec_mobi
 3,sip:10.10.94.32:5060,vn=10,2,Billsec_vina
 3,sip:10.10.96.18:5060,vt=10,2,Billsec_vtel
+4,sip:10.10.96.18:5060,vt=7,2,PF_12-13-VTEL
