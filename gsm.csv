@@ -1,6 +1,4 @@
 1,sip:10.10.98.15:5060,mb=10,2,Channels_mobi
 1,sip:10.10.94.32:5060,vn=5,2,Channels_vina
 1,sip:10.10.96.18:5060,vt=5,2,Channels_vtel
-4,sip:10.10.96.18:5060,vt=5,2,PF_12-13-VTEL
-4,sip:10.10.94.32:5060,vn=5,2,PF_12-13-Vina
 4,sip:10.10.98.15:5060,mb=5,2,PF_12-13-Mobi
