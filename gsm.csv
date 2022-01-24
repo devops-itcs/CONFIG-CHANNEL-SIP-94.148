@@ -2,7 +2,7 @@
 1,sip:10.10.98.16:5060,mb=10,2,Trustconnect
 1,sip:10.10.94.32:5060,vn=5,2,Trustconnect
 1,sip:10.10.94.32:5060,other=5,2,Trustconnect
-1,sip:10.10.95.23:5060,vn=3,2,Tel4vn-demo
-1,sip:10.10.98.15:5060,mb=3,2,Tel4vn-demo
-1,sip:10.10.89.23:5060,vt=3,2,Tel4vn-demo
+2,sip:10.10.95.23:5060,vn=3,2,Tel4vn-demo
+2,sip:10.10.98.15:5060,mb=3,2,Tel4vn-demo
+2,sip:10.10.89.23:5060,vt=3,2,Tel4vn-demo
 4,sip:10.10.98.15:5060,mb=5,2,PF_12-13-Mobi
